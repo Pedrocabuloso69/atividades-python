@@ -1,4 +1,5 @@
-# atividades-python
+# python basico
+
 lista_compras = []
 
 print("LISTA DE COMPRAS INTERATIVA")
